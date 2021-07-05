@@ -6,7 +6,3 @@ installed on your system and pygame module with it.
 You can download python 3 from official python site and to install pygame module just run this command on cmd :
 					*******	pip install pygame ******
 
-And if you are bored during this lockdown you can read story of Lucifer Blaze that i have been writing these days. XD
-Here's the link to the word ducument of the story.
-
-https://drive.google.com/open?id=1Urb3JpHDFxNKAdCTgJZeu_cHQ-Ch-gV_
